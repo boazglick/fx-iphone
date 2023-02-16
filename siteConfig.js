@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://twocold.org", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://fx-iphone.net", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "twocold.org", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "fx-iphone.net", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "twocold.org", // This allows an alternative site description for meta data for pages.
+    "fx-iphone.net", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "twocold.org", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "fx-iphone.net", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "twocold.org",
+    title: "fx-iphone.net",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://twocold.org/",
+        url: "https://fx-iphone.net/",
       },
       {
         label: "יצירת קשר",
-        url: "https://twocold.org/contact",
+        url: "https://fx-iphone.net/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://twocold.org/",
+        url: "https://fx-iphone.net/",
       },
       {
         label: "Sitemap",
-        url: "https://twocold.org/sitemap.xml",
+        url: "https://fx-iphone.net/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://twocold.org/contact",
+        url: "https://fx-iphone.net/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "twocold.org",
+    title: "fx-iphone.net",
     description:
-      "twocold.org",
+      "fx-iphone.net",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "twocold.org",
+    title: "fx-iphone.net",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "twocold.org",
+  siteTitle: "fx-iphone.net",
   siteDescription:
-    "twocold.org",
+    "fx-iphone.net",
   language: "he",
   logoUrl: "",
   iconUrl: "",
