@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://fx-iphone", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://fx-iphone.net", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://fx-iphone/",
+        url: "https://fx-iphone.net/",
       },
       {
         label: "יצירת קשר",
-        url: "https://fx-iphone/contact",
+        url: "https://fx-iphone.net/contact",
       },
     ],
   },
@@ -38,17 +38,23 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://fx-iphone/",
+        url: "https://fx-iphone.net/",
       },
       {
         label: "Sitemap",
-        url: "https://fx-iphone/sitemap.xml",
+        url: "https://fx-iphone.net/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://fx-iphone/contact",
+        url: "https://fx-iphone.net/contact",
       },
+                
+       {
+        label: "קרסו מאיה",
+        url: "https://maya.tase.co.il/company/2384",
+      },
+      
      
     ],
   },
